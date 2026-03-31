@@ -61,7 +61,7 @@ struct Sreerama {
 │                                                                             │
 │  ▸ Presented at ICMCSI 2026 (International Conference on Machine            │
 │    Computing and Software Intelligence)                                     │
-│  ▸ DOI: https://doi.org/10.1109/ICMCSI67283.2026.11412692                  │
+│  ▸ DOI: https://doi.org/10.1109/ICMCSI67283.2026.11412692                   │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -203,7 +203,7 @@ Full-featured bus-booking backend built with strict layered DAO/Service architec
 
 </div>
 
-I come from a family with deep roots in Carnatic music — my father is a Veena Vidwan and scholar. Growing up surrounded by ragas, talas, and the precise mathematics of Indian classical music gave me a strange lens for computing problems. Carnatic music is extraordinarily systematic: 72 parent scales, each with defined microtonal relationships, rhythmic structures with named subdivisions. It practically *asks* to be modelled computationally.
+I come from a family with deep roots in Carnatic music. with my father a Veena Vidwan and scholar. Growing up surrounded by ragas, talas, and the precise mathematics of Indian classical music gave me a strange lens for computing problems. Carnatic music is extraordinarily systematic: 72 parent scales, each with defined microtonal relationships, rhythmic structures with named subdivisions. It practically *asks* to be modelled computationally.
 
 The **Tala App** and **Veena Shruthi Analyser** are my attempt to give back — to build tools that actually serve this tradition rather than flattening it into Western approximations.
 

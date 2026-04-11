@@ -59,8 +59,8 @@ struct Sreerama {
 │  RATM: Reinforcement Learning for Co-Optimised CPU Scheduling               │
 │        and NUMA Memory Management in Compiler Design                        │
 │                                                                             │
-│  ▸ Presented at ICMCSI 2026 (International Conference on Machine            │
-│    Computing and Software Intelligence)                                     │
+│  ▸ Presented at ICMCSI 2026 (International Conference on Mobile             │
+│    Computing and Sustainable Informatics)                                   │
 │  ▸ DOI: https://doi.org/10.1109/ICMCSI67283.2026.11412692                   │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
